@@ -1,0 +1,3 @@
+[submodule "pronto/themes/spectral"]
+	path = pronto/themes/spectral
+	url = git@github.com:sbruder/spectral.git
