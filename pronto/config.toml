@@ -1,14 +1,14 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Pronto Solutions'
 theme = "spectral"
 
 [params]
 fancyTitle = "Pronto" # title for frontpage, may include image
-copyright = "Pronto Solution"
-description = 'Ai Powered solutions for more intuitive dining experience'
+copyright = "Pronto Solutions"
+description = 'AI Powered solutions for more intuitive dining experience'
 startbuttonText = "Activate"
-startbuttonLink = "#"
+startbuttonLink = "#one"
 body_is_markdown = true
 #custom_css = "foo.css"
 #images = ["path_to_social_image_for_link_previews.jpg"]
@@ -28,10 +28,11 @@ title = "Posts"
 
 [params.one]
 enable = true
-title = 'Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec'
+title = 'Want to know when your customers need service? Pronto does that for you.'
 body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+With our cutting edge technology, Pronto tells you exactly when your restaraunt patrons need one-on-one attention. 
+
+No buttons, no gimicks, straight service.
 '''
 
 [[params.one.icon]]
@@ -45,7 +46,7 @@ style = "2"
 label = "Ipsum"
 
 [[params.one.icon]]
-icon = "fa-code"
+icon = "fa-bell"
 style = "3"
 label = "Dolor"
 
@@ -53,62 +54,61 @@ label = "Dolor"
 enable = true
 
 [[params.two.section]]
-img = "img/pic01.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+img = "img/food-plate.jpg"
+title = 'Real time Understanding'
+body = 'PRONTO provides restaraunts with real time understanding of diner status. From sit-down to clean-up, Pronto lets you know exactly when your patrons need you the most.'
 
 [[params.two.section]]
-img = "img/pic02.jpg"
-title = 'Tortor dolore feugiat<br />elementum magna'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+img = "img/customer-happy.jpg"
+title = 'Personalized Customer Experience'
+body = 'Let your customers immerse themselves in your atmosphere and tailor the experience they will never forget. PRONTO provides restaurants with the tools to personalized customer experience without a hinderence.'
 
 [[params.two.section]]
-img = "img/pic03.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+img = "img/group.jpg"
+title = 'Deeper Awareness'
+body = 'With a timeline of events, PRONTO captures a better understanding of customer experience and interaction.'
 
 [params.three]
 enable = true
-title = 'Accumsan mus tortor nunc aliquet'
+title = 'How does it work?'
 body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+Pronto understands social cues at an individual table level and helps you make informed decisions by serving you with data exactly how you need it.
 '''
 
 [[params.three.feature]]
-icon = "fa-paper-plane-o"
-title = "Arcu accumsan"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+icon = "fa-tachometer"
+title = "Lightning Speed"
+body = "Pronto's cutting edge AI returns instanaeous results to keep you up to date on where your attention is needed the most."
 
 [[params.three.feature]]
-icon = "fa-laptop"
-title = "Ac Augue Eget"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+icon = "fa-lock"
+title = "Security First"
+body = "Privacy comes first. That means all data is processed locally at the table, only what is necessary is shared."
 
 [[params.three.feature]]
-icon = "fa-code"
-title = "Foo bar"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+icon = "fa-television"
+title = "Intuitive UI"
+body = "Service is fast, and Pronto is faster. One quick glance at our user interface and you'll know exactly who needs help."
 
 [[params.three.feature]]
-icon = "fa-headphones"
-title = "Baz kram"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+icon = "fa-expand"
+title = "Flexible for You"
+body = "No restaraunt is the same. Pronto brings insight to the key experiences that your customers embed themselves in and you drive how to serve them the moments of a lifetime"
 
 [[params.three.feature]]
-icon = "fa-heart-o"
-title = "Some latin text"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+icon = "fa-stop"
+title = "Discrete Footprint"
+body = "Small and Mighty. Pronto attaches to your dining surfaces quickly, discretely, and without any upkeep necessary. Pronto works for you."
 
 [[params.three.feature]]
-icon = "fa-flag-o"
-title = "Nothing important"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+icon = "fa-area-chart"
+title = "True Analytics"
+body = "Capture insights at the source. Pronto tells you exactly customers are spending the most time giving you a better understanding of where you can serve them best."
 
 [params.cta]
 enable = true
-title = "Arcue ut vel commodo"
-body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
+title = "Lets get Started"
+body = "Want to learn how pronto works? Check out our technical archive about the behind the scenes."
 
 [[params.cta.link]]
 href = "#"
@@ -121,7 +121,7 @@ text = "Learn More"
 special = false
 
 [params.contact]
-enable = true
+enable = false
 title = "Contact"
 body = "Leave us a message."
 phone = "+49 (0) 030 000 000"
