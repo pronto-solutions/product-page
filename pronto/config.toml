@@ -1,7 +1,9 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://pronto-solutions.github.io/product-page'
 languageCode = 'en-us'
 title = 'Pronto Solutions'
 theme = "spectral"
+publishDir = "docs"
+
 
 [params]
 fancyTitle = "Pronto" # title for frontpage, may include image

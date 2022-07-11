@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pronto Solutions</title>
+    <link>http://pronto-solutions.github.io/product-page/</link>
+    <description>Recent content on Pronto Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://pronto-solutions.github.io/product-page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Does Pronto Work?</title>
+      <link>http://pronto-solutions.github.io/product-page/posts/math-typesetting/</link>
+      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://pronto-solutions.github.io/product-page/posts/math-typesetting/</guid>
+      <description>&lt;p&gt;Learn how the core technologies behind Pronto work.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
