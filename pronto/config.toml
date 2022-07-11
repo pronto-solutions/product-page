@@ -2,7 +2,7 @@ baseURL = 'https://pronto-solutions.github.io/product-page/'
 languageCode = 'en-us'
 title = 'Pronto Solutions'
 theme = "spectral"
-publishDir = "docs"
+publishDir = "../docs"
 
 
 [params]
