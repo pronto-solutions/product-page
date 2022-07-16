@@ -34,7 +34,7 @@ title = 'Want to know when your customers need service? Pronto does that for you
 body = '''
 With our cutting edge technology, Pronto tells you exactly when your restaraunt patrons need one-on-one attention. 
 
-No buttons, no gimicks, straight service.
+No buttons, no gimicks. Straight service.
 '''
 
 [[params.one.icon]]
@@ -58,17 +58,17 @@ enable = true
 [[params.two.section]]
 img = "img/food-plate.jpg"
 title = 'Real time Understanding'
-body = 'PRONTO provides restaraunts with real time understanding of diner status. From sit-down to clean-up, Pronto lets you know exactly when your patrons need you the most.'
+body = 'Pronto provides restaraunts with real time understanding of diner status. From sit-down to clean-up, Pronto lets you know exactly when your patrons need you the most.'
 
 [[params.two.section]]
 img = "img/customer-happy.jpg"
 title = 'Personalized Customer Experience'
-body = 'Let your customers immerse themselves in your atmosphere and tailor the experience they will never forget. PRONTO provides restaurants with the tools to personalized customer experience without a hinderence.'
+body = 'Let your customers immerse themselves in your atmosphere and tailor the experience they will never forget. Pronto provides restaurants with the tools to personalized customer experience without a hinderence.'
 
 [[params.two.section]]
 img = "img/group.jpg"
 title = 'Deeper Awareness'
-body = 'With a timeline of events, PRONTO captures a better understanding of customer experience and interaction.'
+body = 'With a timeline of events, Pronto captures a better understanding of customer experience and interaction.'
 
 [params.three]
 enable = true
@@ -110,7 +110,7 @@ body = "Capture insights at the source. Pronto tells you exactly customers are s
 [params.cta]
 enable = true
 title = "Lets get Started"
-body = "Want to learn how pronto works? Check out our technical archive about the behind the scenes."
+body = "Want to learn how Pronto works? Check out our technical archive about the behind the scenes."
 
 [[params.cta.link]]
 href = "#"
