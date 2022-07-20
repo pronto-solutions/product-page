@@ -33,9 +33,12 @@ Our trained predictive model relies on the following:
 ### Convolutional Neural Networks
 Our predictive neural network uses a 6-layer convolutional neural network that is inspired by the architectures of VGG and SB-CNN. The visualization can be seen below.
 
+![CNNpreviews](images/cnnmodel.jpg)
+
 ### Data pipeline
 To model our data before it enters our Convolutional Neural Network, we do the following modifications in a pipeline.
 
+![Data Pipeline](images/pipeline.jpg)
 
 ### Predictive Modelling: Inference Mode
 
@@ -48,7 +51,10 @@ There are two main user interfaces that we provide with Pronto.
 
 In our Live View, we present a real-time instantaneous view of the restaraunt floorplan with our prediction estimates of the state of each individual table
 
+![Live View UI](images/liveview.jpg)
 
 ### Rules Engine
 
 Our rules engine serves as a way to get the core information from the model and delivering the infrormation exactly when the waitstaff need it most
+
+![Rule EngineUI](images/ruleengine.jpg)
