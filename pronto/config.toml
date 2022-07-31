@@ -1,4 +1,4 @@
-baseURL = 'https://pronto-solutions.github.io/product-page/'
+baseURL = 'https://www.prontosystem.com'
 languageCode = 'en-us'
 title = 'Pronto Solutions'
 theme = "spectral"

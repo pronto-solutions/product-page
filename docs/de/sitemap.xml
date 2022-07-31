@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pronto-solutions.github.io/product-page/de/categories/</loc>
+    <loc>https://www.prontosystem.com/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pronto-solutions.github.io/product-page/categories/"
+                href="https://www.prontosystem.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://pronto-solutions.github.io/product-page/de/categories/"
+                href="https://www.prontosystem.com/de/categories/"
                 />
   </url><url>
-    <loc>https://pronto-solutions.github.io/product-page/de/</loc>
+    <loc>https://www.prontosystem.com/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pronto-solutions.github.io/product-page/"
+                href="https://www.prontosystem.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://pronto-solutions.github.io/product-page/de/"
+                href="https://www.prontosystem.com/de/"
                 />
   </url><url>
-    <loc>https://pronto-solutions.github.io/product-page/de/series/</loc>
+    <loc>https://www.prontosystem.com/de/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pronto-solutions.github.io/product-page/series/"
+                href="https://www.prontosystem.com/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://pronto-solutions.github.io/product-page/de/series/"
+                href="https://www.prontosystem.com/de/series/"
                 />
   </url><url>
-    <loc>https://pronto-solutions.github.io/product-page/de/tags/</loc>
+    <loc>https://www.prontosystem.com/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pronto-solutions.github.io/product-page/tags/"
+                href="https://www.prontosystem.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://pronto-solutions.github.io/product-page/de/tags/"
+                href="https://www.prontosystem.com/de/tags/"
                 />
   </url>
 </urlset>

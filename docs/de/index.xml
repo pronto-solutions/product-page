@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pronto Solutions</title>
-    <link>https://pronto-solutions.github.io/product-page/de/</link>
+    <link>https://www.prontosystem.com/de/</link>
     <description>Recent content on Pronto Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://pronto-solutions.github.io/product-page/de/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.prontosystem.com/de/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
